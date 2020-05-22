@@ -1,1 +1,2 @@
 To jest test
+I jest to juz zrobione
